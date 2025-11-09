@@ -1,1 +1,1 @@
-CVreaying text file to learn GIT 
+Creating text file to learn GIT
